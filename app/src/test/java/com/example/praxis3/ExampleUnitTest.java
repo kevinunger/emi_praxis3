@@ -1,4 +1,4 @@
-package com.example.paxis3;
+package com.example.praxis3;
 
 import org.junit.Test;
 
