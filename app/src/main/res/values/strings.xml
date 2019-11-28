@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Praxis3 - Kevin Unger</string>
+    <string name="fibButtonText">Berechne!</string>
+    <string name="fibTitle">Fibonacci</string>
+
+    <string name="QuerTitle">Quersumme</string>
+    <string name="QuerInputHint">Zahl eingeben ... </string>
+    <string name="QuerButtontext"> = </string>
+
+
+
 </resources>
